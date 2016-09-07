@@ -1,0 +1,17 @@
+Source: fonts-fira
+Section: fonts
+Priority: optional
+Maintainer: Zhong Jianxin <azuwis@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+Homepage: https://github.com/mozilla/Fira
+
+Package: fonts-fira
+Architecture: all
+Depends: ${misc:Depends}
+Pre-Depends: dpkg (>= 1.15.6~)
+Multi-Arch: foreign
+Description: sans-serif and monospace typeface family font
+ This package provides sans-serif and monospace typeface family font designed
+ by Erik Spiekermann, Ralph du Carrois, Anja Meiners and Botio Nikoltchev.
+
