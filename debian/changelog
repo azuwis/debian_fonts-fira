@@ -1,3 +1,9 @@
+fonts-fira (4.106-2) unstable; urgency=medium
+
+  * Remove fonts that are to thin to use in display
+
+ -- Zhong Jianxin <azuwis@gmail.com>  Thu, 30 May 2019 10:57:57 +0800
+
 fonts-fira (4.106-1) unstable; urgency=low
 
   * Initial release
